@@ -1,0 +1,20 @@
+distance=4
+raining=True
+if(distance<=5) and (raining==False):
+   print("Let's travel!")
+else:
+    print("Stay at home")
+
+distance=6
+raining=True
+if(distance<=5) and (raining==False):
+   print("Let's travel!")
+else:
+    print("Stay at home")
+
+distance=3
+raining=True
+if(distance<=5) and (raining==False):
+   print("Let's travel!")
+else:
+    print("Stay at home")
